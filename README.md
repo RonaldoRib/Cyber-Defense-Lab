@@ -1,8 +1,8 @@
-# 🛡️ Laboratório de Análise e Defesa Cibernética
+<h1 align="center"> 🛡️ Laboratório de Análise e Defesa Cibernética </h1>
 
 Este repositório contém simulações educacionais de ameaças cibernéticas, criadas com o propósito exclusivo de estudar, detectar e construir defesas.
 
-## ⚠️ AVISO LEGAL E ÉTICO ⚠️
+<h2 align="center">  ⚠️ AVISO LEGAL E ÉTICO ⚠️ </h2>
 
 Este projeto foi criado estritamente para fins educacionais e de estudo em cibersegurança. O objetivo é compreender como funcionam as ameaças cibernéticas para, assim, aprender a criar sistemas mais seguros.
 
