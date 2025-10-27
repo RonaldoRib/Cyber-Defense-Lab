@@ -16,7 +16,7 @@ NÃO realize estes testes em sistemas ou redes que você não possua autorizaç�
 
 ## 📂 Estrutura
 
-* `/Ransoware`: Contém o simulador de criptografia de arquivos.
+* `/Ransomware`: Contém o simulador de criptografia de arquivos.
 * `/Keylogger`: Contém o demonstrador de captura de eventos de teclado.
 * `Defense_Prevention.md`: Documento principal com as estratégias de defesa.
 
